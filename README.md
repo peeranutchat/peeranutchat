@@ -1,7 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=26&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+There!%2C+I'm+Ann+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=26&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+There!%2C+I'm+Ann+🙋‍♂️" alt="Typing SVG" /></a>
 <h3 align="left">A passionate Frontend Developer from Thailand</h3>
 
-- I'm looking for a job as **Frontend Developer**
+- I'm looking for a job as **Frontend Developer** 
 
 - How to reach me **peeranut.cc@gmail.com**
 
